@@ -1,0 +1,14 @@
+C:\Users\msdva\DateTimeDebugger\bin\Debug\net10.0\DateTimeDebugger.exe
+C:\Users\msdva\DateTimeDebugger\bin\Debug\net10.0\DateTimeDebugger.deps.json
+C:\Users\msdva\DateTimeDebugger\bin\Debug\net10.0\DateTimeDebugger.runtimeconfig.json
+C:\Users\msdva\DateTimeDebugger\bin\Debug\net10.0\DateTimeDebugger.dll
+C:\Users\msdva\DateTimeDebugger\bin\Debug\net10.0\DateTimeDebugger.pdb
+C:\Users\msdva\DateTimeDebugger\obj\Debug\net10.0\DateTimeDebugger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msdva\DateTimeDebugger\obj\Debug\net10.0\DateTimeDebugger.AssemblyInfoInputs.cache
+C:\Users\msdva\DateTimeDebugger\obj\Debug\net10.0\DateTimeDebugger.AssemblyInfo.cs
+C:\Users\msdva\DateTimeDebugger\obj\Debug\net10.0\DateTimeDebugger.csproj.CoreCompileInputs.cache
+C:\Users\msdva\DateTimeDebugger\obj\Debug\net10.0\DateTimeDebugger.dll
+C:\Users\msdva\DateTimeDebugger\obj\Debug\net10.0\refint\DateTimeDebugger.dll
+C:\Users\msdva\DateTimeDebugger\obj\Debug\net10.0\DateTimeDebugger.pdb
+C:\Users\msdva\DateTimeDebugger\obj\Debug\net10.0\DateTimeDebugger.genruntimeconfig.cache
+C:\Users\msdva\DateTimeDebugger\obj\Debug\net10.0\ref\DateTimeDebugger.dll
